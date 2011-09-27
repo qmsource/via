@@ -13,6 +13,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/**
+ * Simple application which shows some of elementary elements of Android
+ * @author Tonda Novak
+ *
+ */
+
 public class StarterAppActivity extends Activity {
 
 	private static final String TAG = StarterAppActivity.class.getSimpleName();
