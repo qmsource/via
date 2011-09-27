@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 /**
  * Simple application which shows some of elementary elements of Android
- * @author Tonda Novak
+ * @author Tonda Novak, http://qmsource.net
  *
  */
 
